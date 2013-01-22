@@ -7,7 +7,7 @@ function Ruleset(server) {
 
 	this.properties = {
 		'numTeams': 2,
-		'botsPerTeam': 4,
+		'botsPerTeam': 5,
 		'world': {
 			'width': 1000,
 			'height': 600,
